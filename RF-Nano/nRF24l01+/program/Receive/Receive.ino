@@ -6,7 +6,6 @@
 Nrf24l Mirf = Nrf24l(10, 9);
 
 int value;
-//String 
 
 void setup()
 {
@@ -29,3 +28,10 @@ void loop()
     Serial.println(value);
   }
 }
+
+
+
+
+
+
+
