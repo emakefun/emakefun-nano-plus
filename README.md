@@ -1,6 +1,6 @@
 # Please Contact Us
 Technical support email: support@emakefun.com</br>
-Sales email: ken@makefun.com</br>
+Sales email: ken@emakefun.com</br>
 The latest information download address:https://github.com/emakefun/emakefun-nano-plus  </br>
 # Product Parameter
 ◆ It is fully compatible with the Arduino nano-v3.0 pin and its usage method</br>
